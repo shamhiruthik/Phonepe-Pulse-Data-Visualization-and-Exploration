@@ -1,4 +1,4 @@
-#Phonepe-Pulse-Data-Visualization-and-Exploration  ![MIT LICENSE](https://badgen.net//badge/license/MIT/green)   ![MAINTAINED BADGE](https://img.shields.io/badge/Maintained%3F-yes-green.svg)  
+# Phonepe-Pulse-Data-Visualization-and-Exploration  ![MIT LICENSE](https://badgen.net//badge/license/MIT/green)   ![MAINTAINED BADGE](https://img.shields.io/badge/Maintained%3F-yes-green.svg)  
 I have created a dashboard to visualize Phonepe pulse Github repository data(https://github.com/PhonePe/pulse) using Streamlit and Plotly in Python 
 
 `Application Link`: https://shamhiruthik-phonepe-pulse-data-visualizati-pe-dashboard-42o1h7.streamlit.app/
