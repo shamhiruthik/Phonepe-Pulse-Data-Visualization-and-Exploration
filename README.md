@@ -78,5 +78,5 @@ district, I have used different graphs available in plotly to represent this dat
 6. > (my_phonepe_env)  C:\Users\shamhiruthik\> mkdir phonepe           #create a folder 
 7. > (my_phonepe_env)  C:\Users\shamhiruthik\> cd phonepe              # download the above files from this repository and place inside this folder
 8. > (my_phonepe_env)  C:\Users\shamhiruthik\phonepe> pip install -r requirements.txt       # it will install all the required modules in the environment
-9. > (my_phonepe_env)  C:\Users\shamhiruthik\phonepe> streamlit run Twitter_Scraper_App.py   # Now run the app using streamlit
+9. > (my_phonepe_env)  C:\Users\shamhiruthik\phonepe> streamlit run Pe_Dashboard.py   # Now run the app using streamlit
 10. > You can now view your Streamlit app in your browser.
