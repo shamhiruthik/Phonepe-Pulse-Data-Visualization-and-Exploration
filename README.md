@@ -66,3 +66,17 @@ district, I have used different graphs available in plotly to represent this dat
     3 States with highest Trabsactions count
     4 States with top app openings
 
+
+## Installation and Running
+ 
+ open cmd:
+1. > C:\Users\shamhiruthik> pip install virtualenv 
+2. > C:\Users\shamhiruthik> virtualenv my_phonepe_env
+3. > C:\Users\shamhiruthik> cd my_phonepe_env
+4. > C:\Users\shamhiruthik\my_phonepe_env> cd Scripts
+5. > C:\Users\shamhiruthik\my_phonepe_env\Scripts>activate                    # It will activate the virtual environment
+6. > (my_phonepe_env)  C:\Users\shamhiruthik\> mkdir phonepe           #create a folder 
+7. > (my_phonepe_env)  C:\Users\shamhiruthik\> cd phonepe              # download the above files from this repository and place inside this folder
+8. > (my_phonepe_env)  C:\Users\shamhiruthik\phonepe> pip install -r requirements.txt       # it will install all the required modules in the environment
+9. > (my_phonepe_env)  C:\Users\shamhiruthik\phonepe> streamlit run Twitter_Scraper_App.py   # Now run the app using streamlit
+10. > You can now view your Streamlit app in your browser.
